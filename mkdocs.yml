@@ -1,6 +1,6 @@
 # Reference: https://squidfunk.github.io/mkdocs-material/reference/
-site_name: <Insert Title> Write-Up
-site_author: Author Name
+site_name: TryHackMe OWASP Top 10 Write-Up
+site_author: Knight
 theme:
   icon:
     # Material for MkDocs bundles several icon sets:
@@ -56,15 +56,9 @@ theme:
         name: Switch to light mode
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/<twitter_username>
-      name: Twitter
     - icon: fontawesome/brands/github
-      link: https://github.com/<github_username>
+      link: https://github.com/knight-scott
       name: GitHub
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/<instagram_username>
-      name: Instagram
 extra_css:
   - css/extra.css
 extra_javascript:
@@ -74,6 +68,7 @@ markdown_extensions:
   - abbr
   - attr_list
   - admonition
+  - md_in_html
   - meta
   - footnotes
   - def_list
@@ -81,6 +76,7 @@ markdown_extensions:
       permalink: ⚓︎
       toc_depth: 2
   - pymdownx.details
+  - pymdownx.blocks.caption
   - pymdownx.keys
   - pymdownx.details
   - pymdownx.tabbed:
