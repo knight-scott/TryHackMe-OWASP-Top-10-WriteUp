@@ -15,11 +15,13 @@ theme:
     # logo: fontawesome/solid/tree
     # logo: fontawesome/solid/chess-knight
     logo: fontawesome/regular/chess-knight
+    annotation: material/alert-circle
   name: material
   favicon: img/misc/knight_logo.ico
   features:
     - toc.integrate
     - content.code.copy
+    - content.tooltips
     - navigation.sections
     #- navigation.instant
     #- navigation.top
@@ -75,6 +77,11 @@ markdown_extensions:
   - toc:
       permalink: ⚓︎
       toc_depth: 2
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.details
   - pymdownx.blocks.caption
   - pymdownx.keys
@@ -98,13 +105,12 @@ nav:
 # The 'nav' section defines the content of the sidebar navigation.
 - Welcome: 'index.md'
 - Objectives:
-  - Section 1:
-    - Objective 1: 'objectives/o1.md'
-  - Section 2:
-    - Objective 2: 'objectives/o2.md'
-    - Objective 3: 'objectives/o3.md'
-  - Section 3:
-    - Objective 4: 'objectives/o4.md'
+  - Severity 1:
+    - Injection: 'objectives/o1.md'
+  - Severity 2:
+    - Broken Authentication: 'objectives/o2.md'
+  - Severity 3:
+    - Sensitive Data Exposure: 'objectives/o3.md'
+  - Severity 4:
+    - XML External Entity: 'objectives/o4.md'
     - Objective 5: 'objectives/o5.md'
-- Extras:
-  - Easter Eggs: 'easter_eggs.md'

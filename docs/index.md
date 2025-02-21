@@ -13,12 +13,12 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
 ## Answers
 
 !!! success "Task 5 Command Injection Practical - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o1.md) here.
+    Use [command injection](./objectives/o1.md) with knowledge of Linux tools to exploit the vulnerability.
 
-!!! success "2. Insert Objective 2 Title - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+!!! success "Task 7 Broken Authentication - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
     Insert [your answer](./objectives/o2.md) here.
 
-!!! success "3. Insert Objective 3 Title - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star:"
+!!! success "Task 11 Sensitive Data Exposure - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
     Insert [your answer](./objectives/o3.md) here.
 
 !!! success "4. Insert Objective 4 Title - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star:"
