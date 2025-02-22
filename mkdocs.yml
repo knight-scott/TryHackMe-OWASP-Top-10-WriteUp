@@ -113,4 +113,15 @@ nav:
     - Sensitive Data Exposure: 'objectives/o3.md'
   - Severity 4:
     - XML External Entity: 'objectives/o4.md'
-    - Objective 5: 'objectives/o5.md'
+  - Severity 5:
+    - Broken Access Control: 'objectives/o5.md'
+  - Severity 6:
+    - Objective: 'objectives/o6.md'
+  - Severity 7:
+    - Objective: 'objectives/o7.md'
+  - Severity 8:
+    - Objective: 'objectives/o8.md'
+  - Severity 9:
+    - Objective: 'objectives/o9.md'
+  - Severity 10:
+    - Objective: 'objectives/o10.md'
