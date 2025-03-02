@@ -116,7 +116,7 @@ nav:
   - Severity 5:
     - Broken Access Control: 'objectives/o5.md'
   - Severity 6:
-    - Objective: 'objectives/o6.md'
+    - Security Misconfiguration: 'objectives/o6.md'
   - Severity 7:
     - Objective: 'objectives/o7.md'
   - Severity 8:
