@@ -39,13 +39,13 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
     Follow allong exploiting [insecure deserialization](./objectives/o8.md) here.
 
 !!! success "Severity 9 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Follow allong exploiting [objective 9](./objectives/o9.md) here.
+    Follow in the steps of others when working with [components with known vulnerabilites](./objectives/o9.md).
 
 !!! success "Severity 10 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Follow allong exploiting [objective 10](./objectives/o10.md) here.
+    Explore logs to emphsize the risk of [insufficient logging and monitoring](./objectives/o10.md) here.
 
 ## Conclusion
 
-Complete the report with Takeaways or a summary of the engagement.
+This was an informative free room. It's surprising to me how many vulnerabilities are the result of human error and I am looking forward to refining detection and exploitation in the pursuit of further hardening systems.
 
-![Group photo](./img/misc/group_photo.png)
+![Group photo](./img/misc/OWASP10.png)

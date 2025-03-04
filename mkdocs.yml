@@ -122,6 +122,6 @@ nav:
   - Severity 8:
     - Insecure Deserialization: 'objectives/o8.md'
   - Severity 9:
-    - Objective: 'objectives/o9.md'
+    - Components With Known Vulnerabilites: 'objectives/o9.md'
   - Severity 10:
-    - Objective: 'objectives/o10.md'
+    - Insufficient Logging and Monitoring: 'objectives/o10.md'
