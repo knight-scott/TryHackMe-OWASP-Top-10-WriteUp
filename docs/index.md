@@ -46,6 +46,6 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
 
 ## Conclusion
 
-This was an informative free room. It's surprising to me how many vulnerabilities are the result of human error and I am looking forward to refining detection and exploitation in the pursuit of further hardening systems.
+This was an informative, free room. It's surprising to me how many vulnerabilities are the result of human error and I am looking forward to refining detection and exploitation in the pursuit of further hardening systems.
 
 ![Group photo](./img/misc/owasptop10.svg)
