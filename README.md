@@ -2,7 +2,8 @@
 
 ## About
 
-This is my write-up for [TryHackMe's OWASP Top 10 Room](https://tryhackme.com/room/owasptop10). 
+This is my write-up for [TryHackMe's OWASP Top 10 Room](https://tryhackme.com/room/owasptop10). The website can be viewed [here](https://knight-scott.github.io/TryHackMe-OWASP-Top-10-WriteUp/)<br/>
+
 !!! note "OWASP"
     The Open Web Application Security Project is a nonprofit foundation focused on understanding web technologies and exploitations and provides resources and tools designed to improve the security of software applications.
 
