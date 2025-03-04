@@ -9,6 +9,8 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
 !!! note "OWASP"
     The Open Web Application Security Project is a nonprofit foundation focused on understanding web technologies and exploitations and provides resources and tools designed to improve the security of software applications.
 
+!!! note "Template"
+    This write up was created using the [Template](https://github.com/knight-scott/WriteUpTemplate) that I adapted from [crahan](https://github.com/crahan)'s [HolidayHackChallengeTemplate](https://github.com/crahan/HolidayHackChallengeTemplate/). While the original is holiday and CTF competition specific, the genral idea and formatting is applicable to any number of reporting scenarios. I hope to utilize this better for creating ongoing reports of CTF challenges I compete in. It's based on [MkDocs](https://www.mkdocs.org/) and the [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) theme.
 
 ## Answers
 
@@ -16,16 +18,31 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
     Use [command injection](./objectives/o1.md) with knowledge of Linux tools to exploit the vulnerability.
 
 !!! success "Severity 2 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o2.md) here.
+    Use [borken authentication](./objectives/o2.md) to explore logic flaws within the authentication mechanism.
 
 !!! success "Severity 3 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o3.md) here.
+    Using [sensitive data exposure](./objectives/o3.md) exploit the exposed technology to gain admin access.
 
 !!! success "Severity 4 - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o4.md) here.
+    Explore [XXE](./objectives/o4.md) vulnerability.
 
 !!! success "Severity 5 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Insert [your answer](./objectives/o5.md) here.
+    Learn how [broken access controll](./objectives/o5.md) can be exploited.
+
+!!! success "Severity 6 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+    View the [Security Misconfiguration](./objectives/o6.md) walkthrough here.
+
+!!! success "Severity 7 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+    This [XSS](./objectives/o7.md) challenge showcases DOM-Based, Reflected and Stored XSS exploitation.
+
+!!! success "Severity 8 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+    Follow allong exploiting [insecure deserialization](./objectives/o8.md) here.
+
+!!! success "Severity 9 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+    Follow allong exploiting [objective 9](./objectives/o9.md) here.
+
+!!! success "Severity 10 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+    Follow allong exploiting [objective 10](./objectives/o10.md) here.
 
 ## Conclusion
 

@@ -118,9 +118,9 @@ nav:
   - Severity 6:
     - Security Misconfiguration: 'objectives/o6.md'
   - Severity 7:
-    - Objective: 'objectives/o7.md'
+    - Cross-site Scripting: 'objectives/o7.md'
   - Severity 8:
-    - Objective: 'objectives/o8.md'
+    - Insecure Deserialization: 'objectives/o8.md'
   - Severity 9:
     - Objective: 'objectives/o9.md'
   - Severity 10:
