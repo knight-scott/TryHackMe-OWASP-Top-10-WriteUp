@@ -18,12 +18,12 @@ This covers the questions for [TryHackMe's OWASP Top 10 Room](https://tryhackme.
     Use [command injection](./objectives/o1.md) with knowledge of Linux tools to exploit the vulnerability.
 
 !!! success "Severity 2 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
-    Use [borken authentication](./objectives/o2.md) to explore logic flaws within the authentication mechanism.
+    Use [broken authentication](./objectives/o2.md) to explore logic flaws within the authentication mechanism.
 
 !!! success "Severity 3 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
     Using [sensitive data exposure](./objectives/o3.md) exploit the exposed technology to gain admin access.
 
-!!! success "Severity 4 - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star:"
+!!! success "Severity 4 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
     Explore [XXE](./objectives/o4.md) vulnerability.
 
 !!! success "Severity 5 - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
